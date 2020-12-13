@@ -1,5 +1,5 @@
 # Speedrun Strategy Game
-A simple strategy game made with Unity using C#.
+A simple strategy game made in Unity using C#.
 
 All maps are randomly generated based on parameters (height, width, mountain density and forest density), which can be set in the main menu.
 
